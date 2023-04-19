@@ -1,2 +1,2 @@
-# pdf-parser-and-metadata-extractor
+# PDF Parsing and Metadata Extraction
 Technical challenge for internship
